@@ -1,0 +1,2 @@
+"version","n_scored","n_surv","events","median_cut","logrank_chisq","logrank_df","logrank_p","hr_man_favored","hr_ci_low","hr_ci_high","Final_Subtype.Fuc.favored","Final_Subtype.Man.favored"
+"all_samples",357,125,84,0.206448491315797,2.68820165545552,1,0.101093851809062,1.44965912098441,0.931433035334988,2.25621326207042,19,12

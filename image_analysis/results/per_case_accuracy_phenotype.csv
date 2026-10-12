@@ -1,0 +1,8 @@
+specimen_id,label,n_patches,n_correct,accuracy
+PDAC-P01,TypeI,70,70,1.0
+PDAC-P02,TypeII,80,80,1.0
+PDAC-P03,TypeI,241,241,1.0
+PDAC-P04,TypeII,215,215,1.0
+PDAC-P05,TypeII,106,106,1.0
+PDAC-P06,TypeII,56,56,1.0
+PDAC-P07,TypeI,71,69,0.971830985915493

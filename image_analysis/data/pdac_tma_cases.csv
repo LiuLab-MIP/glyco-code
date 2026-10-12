@@ -1,0 +1,16 @@
+specimen_id,cohort,sample_type,label,subtype,n_views,n_patches,n_tumour_patches,n_blank_patches,has_annotation
+PDAC-TMA-01,pdac_tma,tumour,PDAC,ManHigh,1,256,165,0,True
+PDAC-TMA-02,pdac_tma,tumour,PDAC,ManHigh,1,256,166,0,True
+PDAC-TMA-03,pdac_tma,tumour,PDAC,FucHigh,1,256,162,0,True
+PDAC-TMA-04,pdac_tma,tumour,PDAC,FucHigh,1,256,242,0,True
+PDAC-TMA-05,pdac_tma,tumour,PDAC,FucHigh,1,256,239,0,True
+PDAC-TMA-06,pdac_tma,tumour,PDAC,FucHigh,1,256,140,0,True
+PDAC-TMA-07,pdac_tma,tumour,PDAC,FucHigh,1,256,227,0,True
+PDAC-TMA-08,pdac_tma,tumour,PDAC,ManHigh,1,256,24,0,True
+PDAC-TMA-09,pdac_tma,tumour,PDAC,ManHigh,1,256,36,0,True
+PDAC-TMA-10,pdac_tma,tumour,PDAC,FucHigh,1,256,239,0,True
+PDAC-TMA-11,pdac_tma,tumour,PDAC,FucHigh,1,256,112,0,True
+PDAC-TMA-12,pdac_tma,tumour,PDAC,FucHigh,1,256,189,0,True
+PDAC-TMA-13,pdac_tma,tumour,PDAC,ManHigh,1,256,135,0,True
+PDAC-TMA-14,pdac_tma,tumour,PDAC,ManHigh,1,256,55,0,True
+PDAC-TMA-15,pdac_tma,tumour,PDAC,FucHigh,1,256,78,0,True

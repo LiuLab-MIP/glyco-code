@@ -1,0 +1,13 @@
+"glyco_variable","moffitt_variable","spearman_rho","p_value"
+"Glyco_Shift_Score","moffitt_score",-0.572737940844468,6.64673531586463e-17
+"Glyco_Shift_Score","Moffitt_Basal",-0.322761612845226,1.11275206196344e-05
+"Glyco_Shift_Score","Moffitt_Classical",0.46864922776082,4.18588769616281e-11
+"Glyco_Shift_Score","classifier_basal_prob",-0.546937459254989,2.8223305304421e-15
+"Fuc_Z","moffitt_score",-0.383242776848039,1.29130198623124e-07
+"Fuc_Z","Moffitt_Basal",0.0850840861384211,0.258807262941895
+"Fuc_Z","Moffitt_Classical",0.689233974055487,2.03422085968069e-26
+"Fuc_Z","classifier_basal_prob",-0.534088790623287,1.62390536887499e-14
+"Man_Comp_Z","moffitt_score",0.347580508740554,1.99734544022754e-06
+"Man_Comp_Z","Moffitt_Basal",0.525040721160854,5.32977906415535e-14
+"Man_Comp_Z","Moffitt_Classical",0.108851838809102,0.148083463593445
+"Man_Comp_Z","classifier_basal_prob",0.208888187048976,0.00513853501803023

@@ -1,0 +1,16 @@
+specimen_id,cohort,sample_type,label,subtype,n_views,n_patches,n_tumour_patches,n_blank_patches,has_annotation
+heart-1,mouse,section,heart,,1,256,,0,False
+heart-2,mouse,section,heart,,1,256,,0,False
+heart-3,mouse,section,heart,,1,256,,0,False
+kidney-1,mouse,section,kidney,,1,256,,0,False
+kidney-2,mouse,section,kidney,,1,256,,0,False
+kidney-3,mouse,section,kidney,,1,256,,0,False
+liver-1,mouse,section,liver,,1,256,,0,False
+liver-2,mouse,section,liver,,1,256,,0,False
+liver-3,mouse,section,liver,,1,256,,0,False
+lung-1,mouse,section,lung,,1,256,,0,False
+lung-2,mouse,section,lung,,1,256,,0,False
+lung-3,mouse,section,lung,,1,256,,0,False
+spleen-1,mouse,section,spleen,,1,256,,0,False
+spleen-2,mouse,section,spleen,,1,256,,0,False
+spleen-3,mouse,section,spleen,,1,256,,0,False

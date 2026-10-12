@@ -1,0 +1,32 @@
+# ---- raw images: large, deposited separately; only the README of the folder is tracked ----
+image_analysis/raw_images/*
+!image_analysis/raw_images/README.md
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# ---- R ----
+.Rhistory
+.RData
+.Rproj.user/
+bioinformatics/data/GDCdata/
+bioinformatics/data/GEO_cache/
+bioinformatics/data/TCGA_PAAD_subtyped.rds
+bioinformatics/results/
+# cache files that TCGAbiolinks writes into the working directory
+bioinformatics/df.rds
+bioinformatics/results.rds
+
+# ---- operating system and editors ----
+.DS_Store
+._*
+Thumbs.db
+.idea/
+.vscode/

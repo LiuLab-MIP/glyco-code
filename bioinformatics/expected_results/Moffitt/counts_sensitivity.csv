@@ -1,0 +1,3 @@
+"input","basal_calls_by_classifier","spearman_shift_vs_score","spearman_shift_vs_probability","odds_ratio_classifier_call","fisher_p_classifier_call","logrank_p_score_call","logrank_p_classifier_call","spearman_score_tpm_vs_counts","spearman_probability_tpm_vs_counts","classifier_calls_that_differ"
+"TPM (reported)",26,-0.572737940844468,-0.546937459254989,9.87671115479797,2.48717539573724e-05,0.00785044365094856,0.0196541484247437,0.984869069897833,0.88527461044457,15
+"raw counts",33,-0.568041841458238,-0.566373108930347,10.1502857464599,1.35008828952112e-06,0.0276889954303907,0.0011953866226172,NA,NA,NA

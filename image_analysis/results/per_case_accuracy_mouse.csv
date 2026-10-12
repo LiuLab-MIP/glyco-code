@@ -1,0 +1,16 @@
+specimen_id,label,n_patches,n_correct,accuracy
+heart-1,heart,256,256,1.0
+heart-2,heart,256,255,0.99609375
+heart-3,heart,256,256,1.0
+kidney-1,kidney,256,256,1.0
+kidney-2,kidney,256,256,1.0
+kidney-3,kidney,256,256,1.0
+liver-1,liver,256,256,1.0
+liver-2,liver,256,256,1.0
+liver-3,liver,256,256,1.0
+lung-1,lung,256,251,0.98046875
+lung-2,lung,256,255,0.99609375
+lung-3,lung,256,253,0.98828125
+spleen-1,spleen,256,256,1.0
+spleen-2,spleen,256,256,1.0
+spleen-3,spleen,256,256,1.0

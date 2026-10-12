@@ -1,0 +1,6 @@
+reference,heart,kidney,liver,lung,spleen
+heart,767,0,0,1,0
+kidney,0,768,0,0,0
+liver,0,0,768,0,0
+lung,0,0,1,759,8
+spleen,0,0,0,0,768
